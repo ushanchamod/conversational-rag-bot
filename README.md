@@ -2,7 +2,7 @@
 
 A LangChain-powered conversational chatbot with retrieval-augmented generation (RAG), OpenAI integration, memory, and PDF/text document support. This project provides a backend service for answering questions about the BSE degree at OUSL using a combination of LLMs and document retrieval.
 
-Demo: [Watch the demo video on YouTube](https://drive.google.com/file/d/15GTOaR_kYYnc8CtgPINNm5SdRFHkdC-g/view?usp=sharing)
+Demo: [Watch the demo video on Drive](https://drive.google.com/file/d/15GTOaR_kYYnc8CtgPINNm5SdRFHkdC-g/view?usp=sharing)
 
 ## Features
 
