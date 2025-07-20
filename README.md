@@ -73,3 +73,7 @@ ai-service/
 
 - To use a different document, update `PDF_PATH` in `chatbot/config.py`.
 - To add text support, see commented code in `chatbot.py` for `TextLoader`.
+
+## System Architecture
+
+![RAG System Architecture](https://your-image-link-here)
