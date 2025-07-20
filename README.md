@@ -76,4 +76,4 @@ ai-service/
 
 ## System Architecture
 
-![RAG System Architecture](https://your-image-link-here)
+![RAG System Architecture](https://github.com/ushanchamod/conversational-rag-bot/blob/main/ousl-rag-chatbot-architecture.png)
