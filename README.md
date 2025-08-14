@@ -1,4 +1,4 @@
-# OUSL Credit Calculator Chatbot
+# Conversational Chatbot - OUSL
 
 A LangChain-powered conversational chatbot with retrieval-augmented generation (RAG), OpenAI integration, memory, and PDF/text document support. This project provides a backend service for answering questions about the BSE degree at OUSL using a combination of LLMs and document retrieval.
 
